@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rileysurratt
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning all things Swift
+- 👀 I am a Computer Science major with an interest in app development!
+- 🌱 I’m currently learning Python & Java 
 - 💞️ I’m looking to collaborate on something that is beginner-friendly :) 
 - 📫 How to reach me email: rileysurratt13@gmail.com
 
